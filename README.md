@@ -46,7 +46,21 @@ The home page is composed by the following components
 
 > A list of the current appointments
 
-##
+<br />
+
+### Appointment Details
+
+> This page brings infos such as appointment date, clickable pet links, services and total costs.
+
+
+![image](https://github.com/sandrofilho2000/Doggie-Ranch/assets/75636911/86bd4186-17b3-4515-a254-5768b3b81788)
+
+
+### Adding an Appointment
+
+![Animação2](https://github.com/sandrofilho2000/Doggie-Ranch/assets/75636911/e019548b-a28b-4c0b-9e81-e0caba54d03d)
+
+> This form contains a script that automatically updates the cost of the service according to its type and the number of scheduled pets.
 
 
 
