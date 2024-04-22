@@ -48,14 +48,16 @@ The pages present some features in common. Such as:
 ## Authentication operations
 
 ![admin_required](https://github.com/sandrofilho2000/Doggie-Ranch/assets/75636911/69288e49-aec5-4b12-915b-51c52efb3606)
-> For security reasons, only logged users can run operations such as creating, updating and deleting
+> For security reasons, only logged users can run operations such as creating, updating and deleting.
 
 
-My version of Doggie Ranch includes pages for viewing, adding, editing, and deleting project Models.
+Doggie Ranch includes pages for viewing, adding, editing, and deleting project Models.
+
+<br />
 
 ## Services
-
-> This model includes the fields: name and cost.
+This model includes the fields: name and cost.
+![image](https://github.com/sandrofilho2000/Doggie-Ranch/assets/75636911/93f978fb-388c-43cf-9138-65c295fa1a77)
 
 <br />
 
@@ -84,8 +86,8 @@ My version of Doggie Ranch includes pages for viewing, adding, editing, and dele
 <br />
 
 ## Pets
-
-> This model includes the fields: first name, last name, species, and profile image (optional).
+This model includes the fields: first name, last name, species, and profile image (optional).
+![image](https://github.com/sandrofilho2000/Doggie-Ranch/assets/75636911/7c1224fb-5afa-4d02-a938-661d6f30ea16)
 
 <br />
 
@@ -108,8 +110,7 @@ My version of Doggie Ranch includes pages for viewing, adding, editing, and dele
 <br />
 
 ## Customers
-
-> This model includes the fields: first name, last name, email, and profile image (optional).
+This model includes the fields: first name, last name, email, and profile image (optional).
 
 <br />
 
@@ -132,20 +133,14 @@ My version of Doggie Ranch includes pages for viewing, adding, editing, and dele
 <br />
 
 ## Appointments
+This model includes the fields: start date, end data, pets, customer, services and costs.
 
-The Appointment model has pages for listing, adding, editing, and deleting its items.
-
+![image](https://github.com/sandrofilho2000/Doggie-Ranch/assets/75636911/e79dddcd-a729-4d7b-b749-3a76230ed225)
 
 
 ![Current Appointments](https://github.com/sandrofilho2000/Doggie-Ranch/assets/75636911/4c8374dc-f9e8-41d0-83a8-af3ec9625b26)
 
 > A list of the current appointments.
-
-<br />
-
-### Appointment Details
-
-> This page brings information such as appointment date, clickable pet links, services, and total costs.
 
 <br />
 
