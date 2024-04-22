@@ -21,9 +21,34 @@
 
 My Doggie-Ranch version has pages for viewing, adding, editing, and deleting for the project Models. 
 
+## Services
+
+> Services item contains two fields, name and cost. This model includes the pages...
+
+### Service list
+
+![image](https://github.com/sandrofilho2000/Doggie-Ranch/assets/75636911/80aad888-26cf-4dae-bad7-c2bf09b2c1f0)
+
+> It lists every added service with a delete button included
+
+### Service Adding
+
+![service_adding](https://github.com/sandrofilho2000/Doggie-Ranch/assets/75636911/70d5306b-e5d2-4121-9a9a-6e25cfb192db)
+
+> This forms makes possible to add any service with any cost
+
+### Service Editing
+
+![service_editing](https://github.com/sandrofilho2000/Doggie-Ranch/assets/75636911/e86ac311-b282-421f-85f0-2e29155b1d18)
+
+> Works similarly to add form. Once the item is updated, It will update every related appointment
+
+
+
 ## Appointments
 
 Appointment models has pages for listing, adding, editing and deleting its items. 
+
 
 ### Appointment List
 The home page is composed by the following components
