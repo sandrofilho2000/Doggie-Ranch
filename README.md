@@ -16,6 +16,22 @@
 
 > This README guides through the process of creating new features and fixing bugs in the Doggie Ranch project.
 
+
+## Pages Features
+The pages present some features in common. Such as:
+
+![Search Functionality](https://github.com/sandrofilho2000/Doggie-Ranch/assets/75636911/5479aeb6-37a0-4433-92f3-8b5ba3b32499)
+
+> A functional search input which returns real data from the database model
+
+![nav_bar](https://github.com/sandrofilho2000/Doggie-Ranch/assets/75636911/1e2662ed-ae91-4e45-ac55-510aa88502b2)
+
+> A Navbar containing browsable pages
+
+![image](https://github.com/sandrofilho2000/Doggie-Ranch/assets/75636911/0954f858-590d-4ad2-b07d-0a74abf472aa)
+
+> An admin header linking to Django dashboard
+
 My version of Doggie Ranch includes pages for viewing, adding, editing, and deleting project Models.
 
 ## Services
@@ -80,17 +96,7 @@ My version of Doggie Ranch includes pages for viewing, adding, editing, and dele
 
 The Appointment model has pages for listing, adding, editing, and deleting its items.
 
-![Appointments](https://github.com/sandrofilho2000/Doggie-Ranch/assets/75636911/dfb18a7b-ade8-453c-bfa8-6ef415b3af2a)
 
-> A Navbar containing browsable pages
-
-<br />
-
-![Search Functionality](https://github.com/sandrofilho2000/Doggie-Ranch/assets/75636911/5479aeb6-37a0-4433-92f3-8b5ba3b32499)
-
-> A functional search input which returns real data from the database model
-
-<br />
 
 ![Current Appointments](https://github.com/sandrofilho2000/Doggie-Ranch/assets/75636911/4c8374dc-f9e8-41d0-83a8-af3ec9625b26)
 
